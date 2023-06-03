@@ -1,0 +1,41 @@
+*{
+    background-color: rgb(165, 186, 231);
+}
+
+h3{
+    
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+
+.formulario{
+    margin: 60px;
+    font-size: 23px;
+    text-align: center;
+}
+
+#uno{
+    width: 40px;
+    height: 15px;
+}
+
+#dos{
+    width: 40px;
+    height: 15px;
+}
+
+#valor{
+    font-size: 20px;
+
+}
+
+#cotizador{
+    font-size: 20px;
+     background-color: rgb(206, 214, 255);
+     color: rgb(0, 0, 0);
+}
+
+
